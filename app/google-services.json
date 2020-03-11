@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "286136875040",
+    "firebase_url": "https://finalzoh.firebaseio.com",
+    "project_id": "finalzoh",
+    "storage_bucket": "finalzoh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286136875040:android:8c7c3ed9f6a7ba2d182445",
+        "android_client_info": {
+          "package_name": "org.envision.oiarki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286136875040-gsdpuu7fs04vtp6oa7thu8tjkkok502a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.envision.oiarki",
+            "certificate_hash": "91c74370108a8f98320d6315ccc1a2ea1c65883b"
+          }
+        },
+        {
+          "client_id": "286136875040-us5uo0qmv8au793hkimjdbrea84cg86v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAIQcdqdHRvtSBpapDlAmnOLMAVXC-hFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286136875040-us5uo0qmv8au793hkimjdbrea84cg86v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
